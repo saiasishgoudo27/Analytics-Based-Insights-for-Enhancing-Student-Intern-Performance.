@@ -1,4 +1,4 @@
-# 🎯 Student Data Analysis Project
+# 🎯Empowering Intern Success with Analytics-Based Decision Making
 
 A data analytics project aimed at uncovering meaningful insights from student survey data, focusing on academic performance, event participation, technical experience, career aspirations, and leadership roles.
 
