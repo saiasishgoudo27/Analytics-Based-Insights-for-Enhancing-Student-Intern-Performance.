@@ -1,4 +1,4 @@
-# 🎯Empowering Intern Success with Analytics-Based Decision Making
+# 🎯Analytics-Based Insights for Enhancing Student Intern Performance 
 
 A data analytics project aimed at uncovering meaningful insights from student survey data, focusing on academic performance, event participation, technical experience, career aspirations, and leadership roles.
 
